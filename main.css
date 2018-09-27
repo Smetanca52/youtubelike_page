@@ -1,0 +1,42 @@
+img {
+  width: 10em;
+  margin-left: 10px;
+}
+
+#search {
+  float: right;
+  padding: 6px;
+  border: groove;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+#like {
+  font-weight: bold;
+  display: inline;
+  font-size: 2rem;
+  font-family: Gill Sans Extrabold, sans-serif;
+}
+
+section {
+  float: left;
+}
+
+aside {
+  float: right;
+  text-align: center;
+  font-family: Loma, sans-serif;
+  font-size: 15px;
+}
+
+iframe {
+  display: block;
+  margin: 15px 30px;
+}
+
+article {
+  margin-left: 2rem;
+  font-family: Loma, sans-serif;
+  font-size: 19px;
+}
